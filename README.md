@@ -1,16 +1,24 @@
-### Hi there 👋
+###                                                            Clayton J. Wilkerson
 
-<!--
-**clay2000lbs/clay2000lbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... 
+Simple Calculator
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+JS Foundations
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+TBD
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  UX Design, I love chatting about everyones favorite websites or apps.
+
+- About me:
+Hi! My name is Clayton J. Wilkerson. Myself in three words: Empathetic, Adaptive, Curious.
+In my free time, I like to: Play video games, build computers, and study new topics.
+
+- 😄 Pronouns:
+He/Him
+
 - ⚡ Fun fact: ...
--->
+I am a SSB god. 🎮
+
